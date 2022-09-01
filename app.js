@@ -52,7 +52,7 @@ idE.insertBefore(h1, newDiv);
 
 
 let inputName = document.getElementById('name');
-console.log(name.value);
+console.log(inputName.value);
 inputName.id = "apellido";
 inputName.style.padding = "5px";
 inputName.style.borderRadius = "5px";
